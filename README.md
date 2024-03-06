@@ -1,4 +1,4 @@
-# Doc's Scripts
+# Ashley's Scripts
 
 Just some handy scripts
 
@@ -10,16 +10,19 @@ Displays current network information. Handy for dashboards
 
 `sh ./network.sh`
 
+## Welcome
+
+Simulates a "typing" effect in the terminal.
+
+`zsh ./welcome.sh --name "Greetings and salutations" --delay 0.05`
+
 ## Contributing
 
-If you would like to make an update to this project, fork and open a pull request. If you have any questions, please feel free to reach out (contact info below)
+If you would like to make an update to this project, fork and open a pull request. 
+If you have any questions, please feel free to reach out (contact info below)
 
 ## Contact Me
 
-### Andrew "Doc" Bell ###
+### Ashley Weatherwax ###
 
-homepage: www.recursivechaos.com
-
-email: andrew@recursivechaos.com
-
-twitter: @recursive_chaos
+email: ashley.wxwx@gmail.com
