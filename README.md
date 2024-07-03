@@ -2,6 +2,12 @@
 
 Just some handy scripts
 
+## ArgoCD
+
+Displays any Argo CD Application that are not Synced or Healthy
+
+`sh ./argocd.sh`
+
 ## Network
 
 Based on: https://www.kittell.net/code/mac-os-x-get-network-information/
