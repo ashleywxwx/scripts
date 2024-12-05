@@ -8,6 +8,12 @@ Displays any Argo CD Application that are not Synced or Healthy
 
 `sh ./argocd.sh`
 
+## Git Update
+
+Did someone merge upstream changes you need to check out and merge into your branch?
+
+`sh ./git-up.sh`
+
 ## Network
 
 Based on: https://www.kittell.net/code/mac-os-x-get-network-information/
